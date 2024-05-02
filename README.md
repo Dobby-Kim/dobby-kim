@@ -9,7 +9,7 @@
 
 | | |
 | :--: | :--: |
-| ![A-s_Capston_Project][A-s_Capston_Project](https://github.com/dobby-kim/A-s_Capston_Project) | ![SKKU_Projects][SKKU_Projects](https://github.com/dobby-kim/SKKU_Projects) |
+| [![A-s_Capston_Project][A-s_Capston_Project]](https://github.com/dobby-kim/A-s_Capston_Project) | [![SKKU_Projects][SKKU_Projects]](https://github.com/dobby-kim/SKKU_Projects) |
 
 | | |
 | :--: | :--: |
