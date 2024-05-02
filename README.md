@@ -7,6 +7,7 @@
   ### I'm studying... 🎓
   
   <br>
+  
   #### BackEnd Langs
   
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white") <br>
@@ -14,11 +15,13 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
   <br>
+  
   #### DB
   
   ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br>
   
   <br>
+  
   #### Infra
   
   ![AWS](https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white)
