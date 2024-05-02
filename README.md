@@ -1,7 +1,11 @@
 <div align="center">
 
 
-| |[![Dobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobby-kim&theme=ambient_gradient&show_icon=true&hide=stars,issues)](https://github.com/dobby-kim)
+---
+
+[![Dobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobby-kim&theme=ambient_gradient&show_icon=true&hide=stars,issues)](https://github.com/dobby-kim)
+
+---
 
 | | |
 | :--: | :--: |
@@ -16,6 +20,7 @@
 [SKKU_Projects]: https://github-readme-stats.vercel.app/api/pin/?username=dobby-kim&repo=SKKU_Projects&theme=ambient_gradient
 [skkuding/codedang]: https://github-readme-stats.vercel.app/api/pin/?username=skkuding&repo=codedang&theme=ambient_gradient
 [skkuding/codedang-monitor]: https://github-readme-stats.vercel.app/api/pin/?username=skkuding&repo=codedang-monitor&theme=ambient_gradient
+---
 
 
 </div>
