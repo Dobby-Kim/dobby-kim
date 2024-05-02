@@ -17,7 +17,7 @@
   
   #### DB
  
-  ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <img src="https://img.shields.io/badge/MYSQL-66CDAA?style=flat-square&logo=MYSQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <br>
  
   #### Infra
