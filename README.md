@@ -8,8 +8,10 @@
   
   #### BackEnd Langs
   
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white") <br>
-  ![SpringBoot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=spring&logoColor=white) <br>
+  <img src="https://img.shields.io/badge/JAVA-800000?style=flat-square&logo=JAVA&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/SPRING-FFA07A?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-CAC532?style=flat-square&logo=JAVASCRIPT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   <br>
   
@@ -20,7 +22,7 @@
  
   #### Infra
   
-  ![AWS](https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white)
+  <img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/DOCKER-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GITHUB-66CDAA?style=flat-square&logo=GITHUB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
