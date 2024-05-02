@@ -4,15 +4,26 @@
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=dobby-kim&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitant&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  ### i'm studying... 🎓
+  ### I'm studying... 🎓
   
   <br>
+  #### BackEnd Langs
   
-  ![SpringBoot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=spring&logoColor=white)<br>
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white") <br>
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white") <br>
+  ![SpringBoot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=spring&logoColor=white) <br>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+  <br>
+  #### DB
   
-  ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  <br>![AWS](https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white)
+  ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br>
+  
+  <br>
+  #### Infra
+  
+  ![AWS](https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white)
+  <img src="https://img.shields.io/badge/DOCKER-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/GITHUB-66CDAA?style=flat-square&logo=GITHUB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   and more..
   
   ---
