@@ -9,11 +9,11 @@
 
 | | |
 | :--: | :--: |
-| ![A-s_Capston_Project][A-s_Capston_Project] | ![SKKU_Projects][SKKU_Projects] |
+| ![A-s_Capston_Project][A-s_Capston_Project](https://github.com/dobby-kim/A-s_Capston_Project) | ![SKKU_Projects][SKKU_Projects](https://github.com/dobby-kim/SKKU_Projects) |
 
 | | |
 | :--: | :--: |
-| ![skkuding/codedang][skkuding/codedang] | ![skkuding/codedang-monitor][skkuding/codedang-monitor] | |
+| ![skkuding/codedang][skkuding/codedang](https://github.com/skkuding/codedang) | ![skkuding/codedang-monitor][skkuding/codedang-monitor](https://github.com/skkuding/codedang-monitor) | |
 
 
 [A-s_Capston_Project]: https://github-readme-stats.vercel.app/api/pin/?username=dobby-kim&repo=A-s_Capston_Project&theme=ambient_gradient
