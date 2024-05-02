@@ -1,6 +1,9 @@
 <div align="center">
+ 
  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dobby-Kim&fontSize=90)
 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=dobby-kim&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitant&edge_flat=false)](https://hits.seeyoufarm.com)
+  
   ### i'm studying... 🎓
   
   <br>
