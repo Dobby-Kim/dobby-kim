@@ -30,11 +30,11 @@
   #### Infra
   
   <img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=Azure&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <br>
   <img src="https://img.shields.io/badge/DOCKER-9370DB?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/GITHUB-66CDAA?style=flat-square&logo=GITHUB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=Github Actions&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   
   
   and more..
