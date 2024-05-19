@@ -19,7 +19,7 @@
   > Sub Langs
 
   <img src="https://img.shields.io/badge/JavaScript-CAC532?style=flat-square&logo=JAVASCRIPT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Python-98FB98?style=flat-square&logo=PYTHON&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <br>
   
   #### DB
