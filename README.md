@@ -45,16 +45,12 @@
   
   ---
   
-  | | |
-  | :--: | :--: |
-  | [![A-s_Capston_Project][A-s_Capston_Project]](https://github.com/dobby-kim/A-s_Capston_Project) | [![SKKU_Projects][SKKU_Projects]](https://github.com/dobby-kim/SKKU_Projects) |
-  | [![skkuding/codedang][skkuding/codedang]](https://github.com/skkuding/codedang) | [![skkuding/codedang-monitor][skkuding/codedang-monitor]](https://github.com/skkuding/codedang-monitor) |
-  
-  
-  [A-s_Capston_Project]: https://github-readme-stats.vercel.app/api/pin/?username=dobby-kim&repo=A-s_Capston_Project&theme=ambient_gradient
-  [SKKU_Projects]: https://github-readme-stats.vercel.app/api/pin/?username=dobby-kim&repo=SKKU_Projects&theme=ambient_gradient
-  [skkuding/codedang]: https://github-readme-stats.vercel.app/api/pin/?username=skkuding&repo=codedang&theme=ambient_gradient
-  [skkuding/codedang-monitor]: https://github-readme-stats.vercel.app/api/pin/?username=skkuding&repo=codedang-monitor&theme=ambient_gradient
-  
+#### Projects
+- 크루루(Cruru) 리크루팅 지원자 관리 서비스(Applicant Tracking System, helps recruitment) [Github: 복잡했던 리크루팅 하루만에 크루루!](https://github.com/woowacourse-teams/2024-cruru)
+- 자리있나요?(Empty Seats?) 공공장소 빈자리 찾기 서비스(Searching avaliable seats on public space by using YOLO5 object detection model) [Empty Seats?](https://github.com/dobby-kim/A-s_Capston_Project)
+- 성균관대학교 Online Judge service(like leetcode, 백준 etc.) Infra Team [Github: Skkuding/codedang](https://github.com/skkuding/codedang) [skkuding/codedang-monitor](https://github.com/skkuding/codedang-monitor)
+
+#### Personal works
+- 성균관대학교 소프트웨어학과 PA 모음(OS, Networks, DB, Compiler) [Github: SKKU_Projects](https://github.com/dobby-kim/SKKU_Projects)  
 
 </div>
