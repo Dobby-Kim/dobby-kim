@@ -38,12 +38,13 @@
   
   
   and more..
-  
-  ---
+    ---
   
   [![Dobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobby-kim&theme=ambient_gradient&show_icon=true&hide=stars,issues&count_private=true)](https://github.com/dobby-kim)
   
   ---
+  </div>
+
   
 #### Projects
 - 크루루(Cruru) 리크루팅 지원자 관리 서비스(Applicant Tracking System, helps recruitment) [Github: 복잡했던 리크루팅 하루만에 크루루!](https://github.com/woowacourse-teams/2024-cruru)
@@ -53,4 +54,4 @@
 #### Personal works
 - 성균관대학교 소프트웨어학과 PA 모음(OS, Networks, DB, Compiler) [Github: SKKU_Projects](https://github.com/dobby-kim/SKKU_Projects)  
 
-</div>
+
