@@ -10,7 +10,7 @@
   ### I'm studying... 🎓
   
   #### BackEnd Langs
-  > Main Langs
+  > Main
 
   <img src="https://img.shields.io/badge/Java-0078D4?style=flat-square&logo=openjdk&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/Java Spring-6DB33F?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
