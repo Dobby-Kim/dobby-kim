@@ -4,7 +4,7 @@
 </p>
  
 <div>
-저로 인해 누군가가 편해진다면 그것에서 오는 기쁨을 원동력 삼아 개발을 해나갑니다.
+#### 안녕하세요. 저로 인해 누군가가 편해진다면 그것에서 오는 기쁨을 원동력 삼아 개발을 해나가는 개발자 김도엽입니다.
 
 #### Projects
 - 크루루(Cruru) 리크루팅 지원자 관리 서비스(Applicant Tracking System, helps recruitment) [Github: 복잡했던 리크루팅 하루만에 크루루!](https://github.com/woowacourse-teams/2024-cruru)
@@ -20,38 +20,6 @@
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdobby-kim&count_bg=%238100B6&title_bg=%23828282&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  ### I'm studying... 🎓
-  
-  #### BackEnd Langs
-  Main
-
-  <img src="https://img.shields.io/badge/Java-0078D4?style=flat-square&logo=openjdk&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Java Spring-6DB33F?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <br>
-  
-  Sub Langs
-
-  <img src="https://img.shields.io/badge/JavaScript-CAC532?style=flat-square&logo=JAVASCRIPT&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <br>
-  
-  #### DB
- 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <br>
- 
-  #### Infra
-  
-  <img src="https://img.shields.io/badge/AWS-E34F26?style=flat-square&logo=Amazon AWS&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=DOCKER&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GITHUB&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" style="height : auto; margin-left : 200px; margin-right : 10px;"/>
-  
-  
-  and more..
-    ---
   
   [![Dobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobby-kim&theme=ambient_gradient&show_icon=true&hide=stars,issues&count_private=true)](https://github.com/dobby-kim)
   
