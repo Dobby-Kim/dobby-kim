@@ -17,16 +17,18 @@
 
 #### Activity
 - 기술 경험 공유 발표: [[10분 테코톡] 도비의 CI/CD와 Github Actions](https://www.youtube.com/watch?v=SKILL1pT6f4)
-
- 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdobby-kim&count_bg=%238100B6&title_bg=%23828282&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  
-  [![Dobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobby-kim&theme=ambient_gradient&show_icon=true&hide=stars,issues&count_private=true)](https://github.com/dobby-kim)
   
   ---
   </div>
 
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdobby-kim&count_bg=%238100B6&title_bg=%23828282&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  
+  [![Dobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobby-kim&theme=ambient_gradient&show_icon=true&hide=stars,issues&count_private=true)](https://github.com/dobby-kim)
+
+</div>
   
 
 
